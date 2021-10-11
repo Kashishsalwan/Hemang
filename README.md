@@ -2,6 +2,9 @@
 
 <h2 align="center">An Avid Learner </h2>
 
+ <img align="right" alt="GIF" src="https://github.com/ParitoshSrivastava31/ParitoshSrivastava31/blob/main/giphy.gif?raw=true" width="500" height="320" />
+
+
 - 👨🏽‍💻 I’m a curious programmer
 - ❤️ Love to learn new technologies
 - 👫 Love to interact with people and learn from them
