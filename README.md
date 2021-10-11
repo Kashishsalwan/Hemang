@@ -2,7 +2,7 @@
 
 <h2 align="center">An Avid Learner </h2>
 
- <img align="right" alt="GIF" src="https://github.com/ParitoshSrivastava31/ParitoshSrivastava31/blob/main/giphy.gif?raw=true" width="450" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/ParitoshSrivastava31/ParitoshSrivastava31/blob/main/giphy.gif?raw=true" width="450" height="290" />
 
 
 - 👨🏽‍💻 I’m a curious programmer
