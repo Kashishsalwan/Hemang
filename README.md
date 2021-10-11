@@ -1,6 +1,6 @@
 <h1 align="center">Hi there , This is Paritosh Srivastava <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h2 align="center">An Avid Learner <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2 align="center">An Avid Learner </h2>
 
  <img align="right" alt="GIF" src="https://github.com/ParitoshSrivastava31/ParitoshSrivastava31/blob/main/giphy.gif?raw=true" width="450" height="290" />
 
