@@ -12,7 +12,7 @@
 - 👯 New into the Open Source World
 - 💪 Continously focus on enhancing my skills
 </br>
-<h3> Talk to me, I am kinda awesome</h3>
+<h3> Talk to me, I am kinda awesome <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h3>
 <a href="https://www.linkedin.com/in/paritosh-srivastava/">
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
