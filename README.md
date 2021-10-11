@@ -19,6 +19,10 @@
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/framework-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=6aa6f8) ![](https://img.shields.io/static/v1?logo=html5&label=Markup&message=HTML5&color=6aa6f8&logoColor=white) ![](https://img.shields.io/static/v1?logo=css3&label=Styling&message=CSS3&color=6aa6f8&logoColor=white) ![](https://img.shields.io/static/v1?logo=sass&label=CSS%20Pre-Processor&message=SASS&color=6aa6f8&logoColor=white) ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)  ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8) 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/css.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/cpp.png" />
+
+
 <br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
