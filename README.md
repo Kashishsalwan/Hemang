@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , This is Hemang Mehta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there , This is Kashish Salwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h2 align="center">A Keen Learner <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h2>
 
@@ -13,7 +13,7 @@
 - 💪 Continously focus on enhancing my skills
 </br>
 <h3> Talk to me, I am kinda awesome <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="35px"></h3>
-<a href="linkedin.com/in/hemang-mehta-990b15193">
+<a href="linkedin.com/in/kashish-salwan-233b221b1">
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <br/>
@@ -25,6 +25,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hemang-05&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kashishsalwan&show_icons=true&hide_border=true" />
 
 </details>
