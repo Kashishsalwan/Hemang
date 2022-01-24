@@ -13,7 +13,7 @@
 - 💪 Continously focus on enhancing my skills
 </br>
 <h3> Talk to me, I am kinda awesome <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="35px"></h3>
-<a href="https://www.linkedin.com/in/Hemang-mehta/">
+<a href="linkedin.com/in/hemang-mehta-990b15193">
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <br/>
