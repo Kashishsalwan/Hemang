@@ -1,8 +1,8 @@
 <h1 align="center">Hi there , This is Hemang Mehta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h2 align="center">An Avid Learner <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h2>
+<h2 align="center">A Keen Learner <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h2>
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="400" height="250" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="500" height="250" />
 
 
 - 👨🏽‍💻 I’m a curious programmer
@@ -13,7 +13,7 @@
 - 💪 Continously focus on enhancing my skills
 </br>
 <h3> Talk to me, I am kinda awesome <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="35px"></h3>
-<a href="https://www.linkedin.com/in/paritosh-srivastava/">
+<a href="https://www.linkedin.com/in/Hemang-mehta/">
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <br/>
