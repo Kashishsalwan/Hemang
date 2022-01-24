@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , This is Kashish Salwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there , I am Kashish Salwan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h2 align="center">A Keen Learner <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h2>
 
